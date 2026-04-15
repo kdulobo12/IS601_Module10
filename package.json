@@ -1,0 +1,25 @@
+{
+  "name": "is601_module10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdulobo12/IS601_Module10"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdulobo12/IS601_Module10/issues"
+  },
+  "homepage": "https://github.com/kdulobo12/IS601_Module10#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.59.0",
+    "@types/node": "^25.5.0"
+  }
+}
