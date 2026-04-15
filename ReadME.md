@@ -170,12 +170,14 @@ https://hub.docker.com/r/kdulobo12/module10-fastapi
 
 ### ✅ GitHub Actions Success
 
-(Add screenshot here)
+<img width="3340" height="1476" alt="image" src="https://github.com/user-attachments/assets/a44bce55-f3ff-4537-8aa0-6ebbf9403bad" />
+
 
 ### ✅ Docker Hub Image
 
-(Add screenshot here)
+<img width="452" height="232" alt="image" src="https://github.com/user-attachments/assets/eea8668c-bcc7-4a80-8e7d-9f9399a9dbc8" />
 
+Link: https://hub.docker.com/r/kdulobo12/module10-fastapi
 ---
 
 
@@ -192,6 +194,16 @@ https://hub.docker.com/r/kdulobo12/module10-fastapi
 * [x] Docker Hub Deployment
 * [x] README Documentation
 * [x] Reflection
+
+---
+
+
+## Reflection
+
+This project helped me better understand how backend components work together in a real application. I practiced building a secure user model with SQLAlchemy, validating input and output with Pydantic, and hashing passwords before storing them in the database.
+One of the biggest challenges was debugging Docker and PostgreSQL configuration issues. I ran into container name conflicts, database connection errors, and a PostgreSQL image/version mismatch related to Docker volumes. Working through those issues taught me how important container configuration, version pinning, and clean rebuilds are in real projects.
+I also learned how to separate unit tests from integration tests and how to use coverage reports to identify missing execution paths. Setting up CI/CD with GitHub Actions and Docker Hub gave me a better understanding of how automated testing and deployment work in practice.
+Overall, this project gave me hands-on experience with secure backend development, testing, containers, and deployment automation, and it created a strong base for the future modules and final project.
 
 ---
 
